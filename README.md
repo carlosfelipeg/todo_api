@@ -23,4 +23,6 @@ Things you may want to cover:
 
 * Frontend repo: https://github.com/carlosfelipeg/todo_frontend
 
+* Flutter repo: https://github.com/carlosfelipeg/todo_flutter
+
 * ...
