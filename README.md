@@ -21,4 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Frontend repo: https://github.com/carlosfelipeg/todo_frontend
+
 * ...
